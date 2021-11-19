@@ -1,0 +1,8 @@
+# Ignore artifacts:
+build
+coverage
+.next
+.vscode
+public
+node_modules
+yarn.lock
